@@ -33,7 +33,7 @@ This means the model explains around 66% of the variation in student scores.
 - Scikit-learn
 
 ## 🔮 Sample Prediction
-A student studying 18 hours/week with 90% attendance and participation score of 6 is predicted to score around **88**.
+A student studying 18 hours/week with 90% attendance and participation score of 6 is predicted to score around **89**.
 
 ## 📂 Project Structure
 
